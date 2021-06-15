@@ -1,0 +1,9 @@
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\bin\Debug\analizador lexico.exe.config
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\bin\Debug\analizador lexico.exe
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\bin\Debug\analizador lexico.pdb
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\obj\Debug\analizador lexico.csprojResolveAssemblyReference.cache
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\obj\Debug\analizador_lexico.Form1.resources
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\obj\Debug\analizador_lexico.Properties.Resources.resources
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\obj\Debug\analizador lexico.csproj.GenerateResource.Cache
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\obj\Debug\analizador lexico.exe
+C:\Users\dilci\Desktop\utesa2020\compiladores\analizador\analizador lexico\analizador lexico\obj\Debug\analizador lexico.pdb
